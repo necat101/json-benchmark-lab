@@ -1,0 +1,12 @@
+# Generated files
+corpus/
+RESULTS.md
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Virtual envs
+venv/
+.env
